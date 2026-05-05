@@ -1,6 +1,8 @@
-# 🌤️ Weather Forecast Web App
+# 🌤️ SkyCast – Responsive Real-Time Weather Forecasting & Meteorological Data Platform
 
-This is a responsive and interactive Weather Forecast Web App built with **HTML**, **CSS**, **JavaScript**, and **jQuery**, 
+A responsive weather forecasting platform engineered to deliver real-time meteorological data. Built with **HTML**, **CSS**, **JavaScript**, and **jQuery**, 
+this application leverages asynchronous API integration to provide live weather updates, atmospheric conditions, and multi-day forecasts. 
+Focuses on high-performance data fetching and dynamic UI rendering.
 using real-time weather data from the **OpenWeather API** and **Open-Meteo API**. 
 It features current weather data, a 7-day forecast.
 
